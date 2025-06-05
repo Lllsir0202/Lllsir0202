@@ -4,7 +4,7 @@
 **Lllsir0202/Lllsir0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 # 👋 Hi, I'm Loki(Hengze Lu)
 
 🎓 Undergraduate in Computer Science at Nankai University (2022–2026)  
@@ -76,7 +76,7 @@ Built a simulated x86-like CPU including pipeline, MMIO/PMIO support, and GDB-st
 
 ---
 
-
+<!--
 _Thanks for visiting! Feel free to reach out or check out my projects._ 😊
-
 -->
+
