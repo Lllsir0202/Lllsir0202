@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm passionate about low-level systems, compilers, databases, and system security.
+I'm passionate about low-level systems, compilers, databases. I'm studying machine learning nowadays.
 
 - 🔧 **Languages**: C++, Python, JavaScript, Shell
 - 🧰 **Tools**: Linux, Git, GDB, LaTeX, QEMU
