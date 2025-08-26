@@ -48,7 +48,7 @@ Built a simulated x86-like CPU including pipeline, MMIO/PMIO support, and GDB-st
 ## 🏆 Awards
 
 - 🥉 3rd Prize, Tianjin OceanBase Database Competition (Dec. 2024)
-
+- 🥈 2nd Prize, National Undergraduate Computer System Competence Contest(Implementation Track)(Jul. 2025)
 ---
 
 ## 🛠 Tech Stack
