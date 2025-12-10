@@ -63,14 +63,6 @@ Built a simulated x86-like CPU including pipeline, MMIO/PMIO support, and GDB-st
 
 ---
 
-## 📊 GitHub Stats
-
-![Hengze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lllsir0202&show_icons=true&theme=default&hide_rank=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lllsir0202&layout=compact&theme=default)
-
----
-
 ## 📅 GitHub Activity Graph
 
 [![Loki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lllsir0202&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
