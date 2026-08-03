@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 🎓 Undergraduate in Computer Science at Nankai University (2022–2026)  
 📍 Based in Tianjin, China  
 📫 Contact: [hengzelu8@gmail.com](mailto:hengzelu8@gmail.com)  
-🌐 [GitHub Profile](https://github.com/Lllsir0202)
+🌐 [GitHub Profile](https://github.com/Loki0202)
 
 ---
 
@@ -65,7 +65,7 @@ Built a simulated x86-like CPU including pipeline, MMIO/PMIO support, and GDB-st
 
 ## 📅 GitHub Activity Graph
 
-[![Loki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lllsir0202&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Loki's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Loki0202&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
