@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Loki(Hengze Lu)
 
-Get my bachelor degree in Computer Science at Nankai University (2022–2026)  
-🎓 Master of Computing in National University of Singapore (2026-)  
 📍 Based in Singapore  
 📫 Contact: [hengzelu8@gmail.com](mailto:hengzelu8@gmail.com)  
 🌐 [GitHub Profile](https://github.com/Lllsir0202)
@@ -29,7 +27,8 @@ I'm passionate about low-level systems, compilers, databases. I'm studying machi
 
 **Nankai University**, B.Eng in Computer Science  
 *Sep 2022 – Jun 2026*  
-
+**National University of Singapore**, Master of Computing  
+*August 2026 - *  
 ---
 
 ## 📂 Featured Projects
