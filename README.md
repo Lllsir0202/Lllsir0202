@@ -28,7 +28,7 @@ I'm passionate about low-level systems, compilers, databases. I'm studying machi
 **Nankai University**, B.Eng in Computer Science  
 *Sep 2022 – Jun 2026*  
 **National University of Singapore**, Master of Computing  
-*August 2026 -*  
+*Aug 2026 -*  
 ---
 
 ## 📂 Featured Projects
